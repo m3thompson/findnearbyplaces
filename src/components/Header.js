@@ -3,7 +3,7 @@
 const Header = () => {
     return (
         <div>
-            This is the header!
+            Find Nearby Places
         </div>
     );
 }
