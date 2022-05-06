@@ -3,7 +3,7 @@
 const Header = () => {
     return (
         <div>
-            Discover places based on location and reviews!
+            Search places here!
         </div>
     );
 }

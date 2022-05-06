@@ -3,7 +3,7 @@
 const Footer = () => {
     return (
         <div>
-            This is the footer!
+            A guide to help you find the best business in town!
         </div>
     );
 }
